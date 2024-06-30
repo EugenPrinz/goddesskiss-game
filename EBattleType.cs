@@ -1,0 +1,25 @@
+public enum EBattleType
+{
+	Undefined = 0,
+	Plunder = 1,
+	Annihilation = 2,
+	Guerrilla = 3,
+	SeaRobber = 4,
+	Raid = 5,
+	Duel = 6,
+	GuildScramble = 8,
+	ScenarioBattle = 9,
+	WaveBattle = 10,
+	MultiSingleDuel = 11,
+	WaveDuel = 12,
+	Conquest = 13,
+	CooperateBattle = 14,
+	EventBattle = 15,
+	EventRaid = 16,
+	WorldDuel = 17,
+	InfinityBattle = 18,
+	Defender = 100,
+	Attacker = 200,
+	WaveDuelDefender = 300,
+	WorldDuelDefender = 400
+}

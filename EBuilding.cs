@@ -1,0 +1,27 @@
+public enum EBuilding
+{
+	Undefined = 0,
+	Headquarters = 1,
+	MetroBank = 2,
+	Storage = 3,
+	Academy = 4,
+	SituationRoom = 5,
+	UnitResearch = 6,
+	Event = 7,
+	WarMemorial = 8,
+	Challenge = 9,
+	Raid = 10,
+	Guild = 11,
+	Gacha = 12,
+	BlackMarket = 13,
+	Loot = 14,
+	BestChallenge = 15,
+	VipGacha = 16,
+	VipShop = 17,
+	WaveBattle = 18,
+	Laboratory = 19,
+	WeaponResearch = 20,
+	EventBattle = 51,
+	InfinityBattle = 55,
+	WorldChallenge = 61
+}

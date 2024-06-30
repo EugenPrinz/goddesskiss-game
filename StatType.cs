@@ -1,0 +1,14 @@
+public enum StatType
+{
+	NONE,
+	ATK,
+	DEF,
+	HP,
+	ACCUR,
+	LUCK,
+	CRITR,
+	CRITDMG,
+	MOB,
+	INCREASE_GOLD,
+	INCREASE_SP
+}
